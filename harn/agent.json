@@ -1,7 +1,7 @@
 {
   "id": "harn",
   "name": "Harn",
-  "version": "0.10.30",
+  "version": "0.10.31",
   "description": "Harn runs .harn agent pipelines as a native ACP coding agent over stdio.",
   "repository": "https://github.com/burin-labs/harn",
   "website": "https://harnlang.com",
@@ -12,49 +12,49 @@
   "distribution": {
     "binary": {
       "darwin-aarch64": {
-        "archive": "https://github.com/burin-labs/harn/releases/download/v0.10.30/harn-aarch64-apple-darwin.tar.gz",
+        "archive": "https://github.com/burin-labs/harn/releases/download/v0.10.31/harn-aarch64-apple-darwin.tar.gz",
         "cmd": "./harn",
         "args": [
           "serve",
           "acp"
         ],
-        "sha256": "11cca9af027c6505d3683f0b60f02a6a828323fe44fa5f3cc1a15eb1e11d89f9"
+        "sha256": "65338ca07ece69e7c19ee74349d6c676081ffa32329f386fb426c8f2b2b42995"
       },
       "darwin-x86_64": {
-        "archive": "https://github.com/burin-labs/harn/releases/download/v0.10.30/harn-x86_64-apple-darwin.tar.gz",
+        "archive": "https://github.com/burin-labs/harn/releases/download/v0.10.31/harn-x86_64-apple-darwin.tar.gz",
         "cmd": "./harn",
         "args": [
           "serve",
           "acp"
         ],
-        "sha256": "4759aa413f5c252a004c67852dd126e45bc25d3d267904acf46b71d1c9ee6513"
+        "sha256": "d09ed5bb3b1ff7e560012c216f4d75c5e1ea43397df2a1522cffe101ba1ee056"
       },
       "linux-aarch64": {
-        "archive": "https://github.com/burin-labs/harn/releases/download/v0.10.30/harn-aarch64-unknown-linux-gnu.tar.gz",
+        "archive": "https://github.com/burin-labs/harn/releases/download/v0.10.31/harn-aarch64-unknown-linux-gnu.tar.gz",
         "cmd": "./harn",
         "args": [
           "serve",
           "acp"
         ],
-        "sha256": "cacc674e125cc9da8f2fbca836eb5a4e0648e6ee57b1510c0cb363b19dc34528"
+        "sha256": "7e8e93104a909d39ad2f0653761f0515ef2d12621d462020159140f48cf0c187"
       },
       "linux-x86_64": {
-        "archive": "https://github.com/burin-labs/harn/releases/download/v0.10.30/harn-x86_64-unknown-linux-gnu.tar.gz",
+        "archive": "https://github.com/burin-labs/harn/releases/download/v0.10.31/harn-x86_64-unknown-linux-gnu.tar.gz",
         "cmd": "./harn",
         "args": [
           "serve",
           "acp"
         ],
-        "sha256": "b1aa4f97025764e6b7ce4668fb4f85f66ed7f9cb9c5df8f0979e78b16946b629"
+        "sha256": "df756d8f5fac4d6a0cbdc39a4346f1ba068205deb9266438c6fd0f57de3373d4"
       },
       "windows-x86_64": {
-        "archive": "https://github.com/burin-labs/harn/releases/download/v0.10.30/harn-x86_64-pc-windows-msvc.zip",
+        "archive": "https://github.com/burin-labs/harn/releases/download/v0.10.31/harn-x86_64-pc-windows-msvc.zip",
         "cmd": "harn.exe",
         "args": [
           "serve",
           "acp"
         ],
-        "sha256": "113e90d2587adada03bd36296fe017ff6d5a09a3b186208ac1c7f126f7853162"
+        "sha256": "275e67a0e33beddc70fd89f0e74d17e01d7fad1f6328195347a4afa988a07963"
       }
     }
   }
